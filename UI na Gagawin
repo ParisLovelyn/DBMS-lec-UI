@@ -1,0 +1,22 @@
+1. Join Activity (User)
+  - Where a user can select the events or workshops he can join
+
+2. Upload in a photo album
+  - A separate page where the user can upload his/her photo album(non-competition uploading)
+
+3. Staff UI
+  -Improvement to be done:
+      -Staff should be able to update competitions
+      -Staff should also be able to add Events
+      
+4. Sign-in Page
+
+5. Sign-up Page(Base nyo sa ERD yung info na hinihingi)
+
+6. Upload page for competitions
+
+7. Voting page for competitions(check ERD and Business Rules)
+
+REVISIONS:
+1. Profile - Tangalin yung followers and Birthday (Ibase nyo na rin sa attributes ng isang member yung pwedeng mailagay sa profile)
+2. Yun lng so far maalala k ... dagdagan nyo nlng kung anu pa yung kailangan maidagdag
